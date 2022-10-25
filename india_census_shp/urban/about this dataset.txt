@@ -1,0 +1,12 @@
+Created by the Center for Geoinformatics, Indian Institute of Forest Management, Bhopal , India 
+
+This dataset provides India districts connected to basic Census 2011 information. Since 2011, many new districts have been credted from exisitng ones and the missing values for any district in the attribute table is indicative of this fact. However, census figures of other districts have the population for this district too and the user is advised to appropriately deal with the issue by refering to census 2011 and figuring out some working solution. This is particularly true for Telangana districts.  
+
+Please read Field Descriptions sheet which is a data dictionary which provides expanded descriptions of field names in the attribute table. You can also just drop this excel table in the gis environment such that it is avaialble as a ready reference. 
+
+All census data has been taken from the census India website (Office of the Registrar General & Census Commissioner, India) on which census 2011 data has been put in public domain. More details about census data - population enumeration - and metadata can be found at http://www.censusindia.gov.in/2011-Common/CensusData2011.html
+We gratefully acknowldege the Census India website for sharing the above data. 
+
+Terms of Use
+
+While all care has been taken to create this dataset, The centre for Geoinformatics and IIFM are not responsible for any inaccuracies and are not liable for damges of any kind by the use of this dataset. This dataset is provided free on as-is basis. By using downloading and using this data, you argree to these terms.
